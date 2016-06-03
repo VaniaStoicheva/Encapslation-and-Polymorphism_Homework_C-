@@ -1,0 +1,6 @@
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\Battleships\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# april_2016\Battleships\Battleships\bin\Release\Battleships.exe
+E:\C# april_2016\Battleships\Battleships\bin\Release\Battleships.pdb
+E:\C# april_2016\Battleships\Battleships\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# april_2016\Battleships\Battleships\obj\x86\Release\Battleships.exe
+E:\C# april_2016\Battleships\Battleships\obj\x86\Release\Battleships.pdb
