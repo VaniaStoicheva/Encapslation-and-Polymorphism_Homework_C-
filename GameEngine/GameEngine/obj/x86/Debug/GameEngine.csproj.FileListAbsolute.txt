@@ -1,0 +1,7 @@
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\GameEngine\bin\Debug\GameEngine.exe
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\GameEngine\bin\Debug\GameEngine.pdb
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\GameEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\GameEngine\obj\x86\Debug\GameEngine.exe
+C:\Documents and Settings\1234\Local Settings\Application Data\Temporary Projects\GameEngine\obj\x86\Debug\GameEngine.pdb
+E:\C# april_2016\GameEngine\GameEngine\obj\x86\Debug\GameEngine.exe
+E:\C# april_2016\GameEngine\GameEngine\obj\x86\Debug\GameEngine.pdb
